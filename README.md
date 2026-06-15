@@ -79,7 +79,22 @@ Data/
 ```
 
 > Note: The dataset is not included in this repository due to its large size. Please download it directly from Kaggle and place it inside the `Data/` directory before training or testing the model.
+## Model File
 
+The trained model (`model.h5`) is not included in this repository because it exceeds GitHub's file size limit.
+
+To use the application:
+
+1. Train the model using the provided notebook.
+2. Save the trained model as `model.h5`.
+3. Place the file in the project root directory.
+## Download Pretrained Model
+
+Download the pretrained model from:
+
+https://drive.google.com/file/d/111L-RDMkXn198g-Ha9VsCK9d6pWqpv5k/view?usp=drivesdk
+
+ Place `model.h5` in the project root directory before running the application.
 ---
 
 ## 🧪 Testing the Application
