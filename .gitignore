@@ -1,0 +1,9 @@
+venv/
+.venv/
+venv/
+__pycache__/
+Data/
+*.pyc
+
+model.h5
+step to run on this machine.md
